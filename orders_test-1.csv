@@ -1,0 +1,6 @@
+order_id,customer_id,order_date,product_id,product_name,product_price,quantity
+1,Cust123,2023-10-01,101,Product A,10.00,2
+2,Cust123,2023-10-02,102,Product A,15.0,3
+3,Cust123,2023-10-03,103,Product C,20.10,0
+4,Cust456,2023-10-04,104,Product D,25.00,2
+5,Cust456,2023-10-05,105,Product E,30.56,1

@@ -1,0 +1,4 @@
+1. open the task.py file
+2. at line number 13, pass the desired .csv file
+3. save the task.py file
+4. execute python script using command [python task.py]
