@@ -20,16 +20,16 @@ SOLUTIONS
 
 ** I have used python 3.11 and pandas module
 
-** How to execute python file directly with desired orders.csv file
+** SOL=1 
+<-- How to execute python file directly with desired orders.csv file
 1. open the task.py file
 2. at line number 13, pass the desired .csv file
 3. save the task.py file
 4. execute python script using command [python task.py]
 
-** steps to run docker file
-
+** SOL=2
+<-- steps to run docker file
 1. create the docker image
 docker build -t project_app_image .
-
 2. now run the image, it will create container with name: project_app_container, by default it will run on orders.csv file
 docker run --name project_app_container project_app_image
