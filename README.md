@@ -18,7 +18,7 @@ the following tasks:
 
 SOLUTIONS
 
-** I have used python 3.11 and pandas module
+** I have used python 3.11, but it can be executed with other version as well like 3.9, 3.10 etc.
 
 ** SOL=1 
 <-- How to execute python file directly with desired orders.csv file
